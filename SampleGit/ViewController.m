@@ -18,7 +18,7 @@
     [super viewDidLoad];
 }
 -(void)creatingNewMethod{
-    NSLog(@"createdNewMethod");
+    NSLog(@"i want change my method name");
 }
 
 - (void)didReceiveMemoryWarning {
