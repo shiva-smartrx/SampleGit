@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 }
+-(void)logBranchMethod{
+    NSLog(@"logBranchMethod");
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
 }
