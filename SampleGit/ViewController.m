@@ -18,7 +18,7 @@
     [super viewDidLoad];
 }
 -(void)logBranchMethod{
-    NSLog(@"logBranchMethod");
+    NSLog(@"i want push my method");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
