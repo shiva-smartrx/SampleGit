@@ -16,10 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"new check git");
-    // Do any additional setup after loading the view, typically from a nib.
 }
-
+-(void)creatingNewMethod{
+    NSLog(@"createdNewMethod");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
